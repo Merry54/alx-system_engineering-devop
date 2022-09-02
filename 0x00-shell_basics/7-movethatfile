@@ -1,0 +1,2 @@
+#!/bin/bash
+mv /tmp/getty /tmp/my_first_directory/
