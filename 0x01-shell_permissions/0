@@ -1,5 +1,6 @@
 #!/bin/bash
-sudo chmod ug+x hello
+chmod 753 hello
+
 
 
 
